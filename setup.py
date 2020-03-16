@@ -16,15 +16,16 @@ setup(
     author='moonrollersoft',
     author_email='moonrollersoft@gmail.com',
     url='https://github.com/moonrollersoft/log-viewer/',
-    download_url = 'https://github.com/moonrollersoft/log-viewer/archive/v0.1.0.tar.gz',
+    download_url='https://github.com/moonrollersoft/log-viewer/archive/v0.1.0.tar.gz',
     packages=find_packages(exclude=['tests', 'docs']),
     classifiers=[
-        'Development Status :: 1 - Pre-Alpha',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
     ],
     install_requires=[
         'Flask == 1.*'
