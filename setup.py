@@ -16,7 +16,7 @@ setup(
     author='moonrollersoft',
     author_email='moonrollersoft@gmail.com',
     url='https://github.com/moonrollersoft/log-viewer/',
-    download_url='',
+    download_url = 'https://github.com/moonrollersoft/log-viewer/archive/v0.1.0.tar.gz',
     packages=find_packages(exclude=['tests', 'docs']),
     classifiers=[
         'Development Status :: 1 - Pre-Alpha',
