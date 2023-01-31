@@ -10,6 +10,9 @@
 ## Requisites ##
 * [python](https://www.python.org/downloads/release/python-360/) >= 3.6 running on a 
 Linux environment.
+```sh
+pip install markupsafe
+```
 
 ## Where to get it ##
 [PyPi](https://pypi.org/) repository, execute:
